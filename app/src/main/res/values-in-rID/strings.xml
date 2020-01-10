@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="forgot_password">Lupa Sandi</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="already_account">Saya Sudah Memiliki Akun</string>
+    <string name="company_name">Nama Perusahaan</string>
+    <string name="select_role">Daftar sebagai</string>
+    <string name="job_seeker">Pencari Kerja</string>
+    <string name="company">Perusahaan</string>
+    <string name="signup_as_company">Daftar Sebagai Perusahaan</string>
+    <string name="company_email">Email Perusahaan</string>
+    <string name="company_telephone_number">Nomor Telepon Perushaaan</string>
+    <string name="company_address">Alamat Perusahaan</string>
+    <string name="only_available_in_jakarta">Hanya Tersedia : Jakarta</string>
+    <string name="failed_messages">Uh Oh.. Kayaknya Ada Masalah : </string>
+    <string name="success_message">Berhasil</string>
+    <string name="error_password_length">Password minimal 6 Karater</string>
+    <string name="field_is_required">Field ini Wajib Diisi!</string>
+</resources>

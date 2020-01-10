@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Laker</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_account">I Have an Account</string>
+    <string name="company_name">Company name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="select_role">Register as</string>
+    <string name="job_seeker">Job Seeker</string>
+    <string name="company">Company</string>
+    <string name="signup_as_company">Sign up as Company</string>
+    <string name="company_email">Company Email</string>
+    <string name="company_telephone_number">Company Telephone Number</string>
+    <string name="company_address">Company Address</string>
+    <string name="only_available_in_jakarta">Only Available : Jakarta</string>
+    <string name="failed_messages">Uh Oh.. You\'re Getting Trouble in : </string>
+    <string name="success_message">Success</string>
+    <string name="error_password_length">Password minimum 6 Character</string>
+    <string name="field_is_required">Field is Required!</string>
+</resources>

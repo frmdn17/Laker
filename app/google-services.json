@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124835300874",
+    "firebase_url": "https://laker-id.firebaseio.com",
+    "project_id": "laker-id",
+    "storage_bucket": "laker-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124835300874:android:8ecbbbe3f9908b1ecb01f3",
+        "android_client_info": {
+          "package_name": "me.muhammadfaisal.laker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124835300874-gqja4mnuhkrbc9bk91g4gjm5gdc6tl7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.muhammadfaisal.laker",
+            "certificate_hash": "b3ae6566a6a93866feedb424046d0b475783a05a"
+          }
+        },
+        {
+          "client_id": "124835300874-kg43ep8a952nembji5hp2bjcg49pui4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARj3Lx_gMoiBRk_mfGu6DNtS3EK6qaAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124835300874-kg43ep8a952nembji5hp2bjcg49pui4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
